@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayanth-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="jayanth-kulkarni" /> </p>
 
-- 🔭 I’m currently working at [Avesha](https://github.com/kubeslice)
+- 🔭 I’m currently working [Avesha](https://github.com/kubeslice) as a ML/MLOps Engineer 
 
 - 🌱 I’m currently learning **Pytorch and MLOps**
 
